@@ -1,5 +1,3 @@
-# TMDB
-An End-to-End Exploratory Data Analysis of the Global Movie Industry
 #  Reel Insights – TMDB Movie Industry Analysis
 
 ## Project Overview
